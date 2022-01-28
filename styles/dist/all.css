@@ -1,0 +1,24 @@
+/* ---- Container ---- */
+.container {
+  padding-right: 15;
+  padding-left: 15;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 750px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 992px;
+  }
+}
+@media (min-width: 1170px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+/* ---- General Ruls End ---- */
